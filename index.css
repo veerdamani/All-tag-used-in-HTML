@@ -4,7 +4,7 @@ body{
 
 }
 
-div{
+.main{
     padding-top: 20px;
     text-align: center;
     justify-content: space-evenly;
@@ -36,4 +36,12 @@ a:hover{
    background-color: aqua;
    border-radius: 4px;
    font-size: 20px;
+}
+#foot{
+    text-align: center;
+    border: 1px solid black;
+    color: white;
+    background-color: black;
+    height: 50px;
+    padding-top: 15px;
 }
