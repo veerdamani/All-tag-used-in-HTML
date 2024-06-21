@@ -1,6 +1,39 @@
-h2 {
-color: green;
+body{
+    font-size: 22px;
+    margin: 0px;
+
 }
-H1{
-font-size: 40px;
+
+div{
+    padding-top: 20px;
+    text-align: center;
+    justify-content: space-evenly;
+    background-color: black;
+    height: 200px;
+    color: white;
+    border-radius: 5px;
+    
+}
+
+
+a{
+    text-decoration: none;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+img{
+    border-radius: 15px;
+    margin-left: 15px;
+}
+
+
+
+a:hover{
+   border: 1px solid grey;
+   color: rgb(16, 17, 18);
+   background-color: aqua;
+   border-radius: 4px;
+   font-size: 20px;
 }
